@@ -8,7 +8,7 @@ import base64
 from io import BytesIO
 
 st.set_page_config(page_title="QC Inspector Dashboard", layout="wide")
-st.title("🏭 Sistem Informasi Quality Control & WIP Tracker")
+st.title("🏭 Sistem Informasi AI Quality Control & WIP Tracker")
 
 # Konfigurasi Waktu WIB (UTC+7)
 wib = timezone(timedelta(hours=7))
