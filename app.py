@@ -41,7 +41,7 @@ kategori_master = [
     'Retakan Halus (NEU Crazing)', 'Kotoran Material (NEU Inclusion)', 
     'Bercak/Tambalan (NEU Patches)', 'Permukaan Keropos (NEU Pitted)', 
     'Kerak Rol (NEU Rolled-in Scale)', 'Goresan (NEU Scratches)',
-    '✅ OK / Normal (Mulus)'
+    'OK / Normal (Mulus)'
 ]
 
 kolom_kiri, kolom_kanan = st.columns([1, 2])
