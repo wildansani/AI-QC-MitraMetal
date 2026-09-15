@@ -45,7 +45,7 @@ with kolom_kiri:
     
     if file_unggah is not None and model_siap:
         img = Image.open(file_unggah)
-        st.image(img, caption="Gambar diproses...", use_column_width=True)
+        st.image(img, caption="Gambar diproses...", use_container_width=True)
         
         if st.button("Jalankan Inspeksi AI"):
             # Proses Gambar
